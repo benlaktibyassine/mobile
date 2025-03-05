@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyApp1</string>
+    <string name="button">Button</string>
+    <string name="nom">Nom</string>
+    <string-array name="spinner_options">
+        <item>Marrakech</item>
+        <item>Rabat</item>
+        <item>Casa</item>
+    </string-array>
+</resources>
